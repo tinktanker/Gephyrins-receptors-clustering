@@ -1,1 +1,2 @@
-# Gephyrins-receptors-clustering
+run by
+./stop.sh
